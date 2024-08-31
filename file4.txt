@@ -8,4 +8,6 @@ changes2 from rep1
 
 conflict 2
 
+conflict 3 rep 1
+
 
