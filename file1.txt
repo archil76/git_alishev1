@@ -8,8 +8,11 @@ line 7
 
 ssg key added
 
+<<<<<<< HEAD
 
 master rebase
 
-f22 rebase
+f22 rebase 1
+
+f22 rebase 2
 
